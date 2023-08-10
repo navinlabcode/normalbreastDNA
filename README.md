@@ -4,10 +4,10 @@ This repository contains the scripts used in the manuscript: *Normal Breast Tiss
 
 #### scDNA data analysis 
 - Demultiplexed fastq files were first pre-processed by the pipeline: [_CNV_pipeline_](https://github.com/navinlabcode/CNV_pipeline).
-- Then R scripts in _scDNA_anlysis_ were used for downstream analysis and visualization. 
+- Then R scripts in _scDNA_analysis_ were used for downstream analysis and visualization. 
 
 #### Statistical analysis 
-- R scripts in _stat_anlysis_ were used for statistical testing and visualization.
+- R scripts in _stat_analysis_ were used for statistical testing and visualization.
 
 #### Spatial transcriptomic analysis
 - 
