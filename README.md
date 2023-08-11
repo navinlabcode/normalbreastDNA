@@ -43,7 +43,7 @@ other attached packages:
 
 ### _Data source_
 ------------
-The original sequencing data from this study has been deposited to the Sequence Read Archive (SRA): [PRJNA1003661](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1003661).
+The original sequencing data from this study has been deposited to the Sequence Read Archive (SRA): [PRJNA1003661](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1003661?reviewer=tpv1fabnj08ob8njdopvk45iq0).
 
 ### _Contact_
 ------------
