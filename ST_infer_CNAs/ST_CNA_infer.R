@@ -1,11 +1,5 @@
-# Rscript ./copykat_ST/2.Runmin_improve_ST.R
-## Notes ##
-# source('/volumes/USR1/yiyun/Script/Rum_lib.R')
-
-ordir ='/volumes/USR1/yiyun/Project/HBCA/'
 setwd(ordir)
 
-# source('/volumes/USR2/rumwei/tools/copykat_knn_dn.R')
 `%!in%` = Negate(`%in%`)
 source('./plot_0701/upload_code/ST_CNA_infer_functions.R')
 library(Seurat)
