@@ -8,7 +8,6 @@ library(ggplot2)
 library(ggpubr)
 library(cowplot)
 library(BiocParallel)
-setwd('/volumes/USR1/yiyun/Project/HBCA/')
 ################# getEventMat function #######################
 getEventMat <- function(
     consensus,          # consensus CN matrix of which will be converted to event matrix
