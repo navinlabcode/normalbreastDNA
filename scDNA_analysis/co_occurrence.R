@@ -7,7 +7,7 @@ library(magrittr)
 library(ggplot2)
 library(ggpubr)
 library(cowplot)
-# setwd('./')
+
 
 col = read_rds('./rds/col.rds')
 color = read_rds('./rds/meta_color.rds')
