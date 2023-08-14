@@ -10,7 +10,7 @@ This repository contains the scripts used in the manuscript: *Normal Breast Tiss
 - R scripts in _stat_analysis_ were used for statistical testing and visualization.
 
 #### Spatial transcriptomic analysis
-- 
+- R scripts in _ST_infer_CNAs_ were used for CNA inference in ST spots using CopyKat
 
 ### _Dependencies_
 ------------
